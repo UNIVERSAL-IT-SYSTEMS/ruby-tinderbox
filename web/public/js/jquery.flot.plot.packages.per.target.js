@@ -32,6 +32,14 @@ $(function() {
 			label: "Ruby 2.3 ~amd64",
 			data: [[1, $('td[id="ruby_2.3_~amd64"]').text()]]
 		}
+		"ruby_2.3_amd64": {
+			label: "Ruby 2.3 amd64",
+			data: [[1, $('td[id="ruby_2.3_amd64"]').text()]]
+		},
+		"ruby_2.3_~amd64": {
+			label: "Ruby 2.3 ~amd64",
+			data: [[1, $('td[id="ruby_2.3_~amd64"]').text()]]
+		}
 	};
 
 	var i = 0;

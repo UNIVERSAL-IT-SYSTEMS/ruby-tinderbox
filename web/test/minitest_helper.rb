@@ -14,10 +14,10 @@ Package.create(
 	slot: package[5],
 	identifier: package[6],
 	amd64_keyword: package[7],
-	r19_target: package[8],
-	r20_target: package[9],
-	r21_target: package[10],
-	r22_target: package[11],
+	r20_target: package[8],
+	r21_target: package[9],
+  r22_target: package[10],
+  r23_target: package[11],
 	next_target: package[12],
 	gem_version: package[13]
 )
